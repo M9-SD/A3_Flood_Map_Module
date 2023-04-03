@@ -1,6 +1,11 @@
 comment "
 	Showcase: https://www.youtube.com/watch?v=GVmtg7y3gBw
-	GitHub: 
+	GitHub: https://github.com/M9-SD/A3_Flood_Map_Module
+	License: https://github.com/M9-SD/A3_Flood_Map_Module/blob/main/LICENSE
+	Discord: 
+		- ZAM: https://discord.gg/bybqZj8Esu
+		- SQF Archive: https://discord.gg/YnJWZGdVk8
+	Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2949919975
 ";
 
 0 = [] spawn {
